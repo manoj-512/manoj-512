@@ -7,21 +7,9 @@
 - I’m currently learning Flutter, Node.js, Next.js...
 - Reach to me via : **immanoj309@gmail.com**
 
-.right {
-      flex: 1;
-     display: flex;
-      justify-content: flex-end;
-    }
- .right img {
-      width: 200px;
-      height: auto;
-      border-radius: 10px;
-      
-    }
-
-<div class="right">
+<p align="right">
  <img src="https://github.com/manoj-512/manoj-512/blob/main/git%20code.png" alt="Profile Photo" width="200">
-</div>
+</p>
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
