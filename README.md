@@ -8,7 +8,7 @@
 - Reach to me via : **immanoj309@gmail.com**
 
 <p align="right">
- <img src="https://github.com/manoj-512/manoj-512/blob/main/git%20code.png" alt="Profile Photo" width="200">
+ <img src="https://github.com/manoj-512/manoj-512/blob/main/git%20code.png" alt="Profile Photo" width="400">
 </p>
 
 <p align="left">
