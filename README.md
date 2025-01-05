@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <h1 align="center"> I'm Manoj Pulugam</h1>
-<img align="right" alt="PiC " src="https://github.com/manoj-512/manoj-512/blob/main/git%20code.png" width="350" />
 <h3 align="center">Future Full stack dev | Java Enthusiast | Ui/Ux</h3>
+<img align="right" alt="PiC " src="https://github.com/manoj-512/manoj-512/blob/main/git%20code.png" width="350" />
 
 
 - I’m currently working on  java based Projects and e-commerces...
