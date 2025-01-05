@@ -6,14 +6,25 @@
 - I’m currently working on  java based Projects and e-commerces...
 - I’m currently learning Flutter, Node.js, Next.js...
 - Reach to me via : **immanoj309@gmail.com**
+<style >
+.right {
+      flex: 1;
+     display: flex;
+      justify-content: flex-end;
+    }
+ .right img {
+      width: 200px;
+      height: auto;
+      border-radius: 10px;
+      
+    }
+</style>
+<div class="right">
+ <img src="https://github.com/manoj-512/manoj-512/blob/main/git%20code.png" alt="Profile Photo" width="200">
+</div>
 
-<p align="right">
-  <img src="https://github.com/manoj-512/manoj-512/blob/main/git%20code.png" alt="Profile Photo" width="200">
-</p>
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+<h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/manojpulugam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manojpulugam/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/manojp309" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/manojp309" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/manojpulugam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/manojpulugam" height="30" width="40" /></a>
