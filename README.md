@@ -3,12 +3,11 @@
 <h1 align="center"> I'm Manoj Pulugam</h1>
 <h3 align="center">Future Full stack dev | Java Enthusiast | Ui/Ux</h3>
 
-<br>
-- I’m currently working on  java based Projects and e-commerces...<br>
-- I’m currently learning Flutter, Node.js, Next.js...<br>
-- Reach to me via : **immanoj309@gmail.com**<br>
+- I’m currently working on  java based Projects and e-commerces...
+- I’m currently learning Flutter, Node.js, Next.js...
+- Reach to me via : **immanoj309@gmail.com**
 
-
+![profile](https://github.com/manoj-512/manoj-512/blob/main/git%20code.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
