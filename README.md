@@ -6,7 +6,7 @@
 - I’m currently working on  java based Projects and e-commerces...
 - I’m currently learning Flutter, Node.js, Next.js...
 - Reach to me via : **immanoj309@gmail.com**
-<style >
+
 .right {
       flex: 1;
      display: flex;
@@ -18,7 +18,7 @@
       border-radius: 10px;
       
     }
-</style>
+
 <div class="right">
  <img src="https://github.com/manoj-512/manoj-512/blob/main/git%20code.png" alt="Profile Photo" width="200">
 </div>
