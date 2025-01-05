@@ -7,9 +7,9 @@
 - I’m currently learning Flutter, Node.js, Next.js...
 - Reach to me via : **immanoj309@gmail.com**
 
-<p align="right">
- <img src="https://github.com/manoj-512/manoj-512/blob/main/git%20code.png" alt="Profile Photo" width="400">
-</p>
+<img align="right" alt="PiC " src="https://github.com/manoj-512/manoj-512/blob/main/git%20code.png" width="350" />
+
+
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
